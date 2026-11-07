@@ -27,10 +27,12 @@
       "id": "tulparpdf",
       "name": "TulparPDF",
       "tagline": "PDF Düzenleme",
-      "description": "PDF görüntüleme, düzenleme, birleştirme ve imzalama.",
+      "description": "Düzenleme, birleştirme, form ve imza araçlarıyla tanıdık bir PDF editörü.",
+      "repo": "tulparstudio/tulpar-pdf-releases",
+      "asset": "tulparpdf-*-windows-x64-portable.zip",
+      "exe": "tulparpdf.exe",
       "icon": "assets/apps/tulparpdf.webp",
-      "accent": ["#ff8f98", "#d9283c"],
-      "comingSoon": true
+      "accent": ["#ff8f98", "#d9283c"]
     }
   ]
 }
