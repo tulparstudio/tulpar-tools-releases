@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "tulparphoto",
+      "name": "TulparPhoto",
+      "tagline": "Görsel Düzenleme",
+      "description": "Katmanlar, maskeler ve PSD desteğiyle tanıdık bir fotoğraf editörü.",
+      "repo": "tulparstudio/tulpar-photo-releases",
+      "asset": "tulparphoto-*-windows-x64-portable.zip",
+      "exe": "tulparphoto.exe",
+      "icon": "assets/apps/tulparphoto.webp",
+      "accent": ["#8fd3ff", "#2f8fe0"]
+    },
+    {
+      "id": "tulparvideo",
+      "name": "TulparVideo",
+      "tagline": "Video Düzenleme",
+      "description": "Zaman çizelgesi, geçişler ve efektlerle tanıdık bir video editörü.",
+      "repo": "tulparstudio/tulpar-video-releases",
+      "asset": "tulparvideo-*-windows-x64-portable.zip",
+      "exe": "tulparvideo.exe",
+      "icon": "assets/apps/tulparvideo.webp",
+      "accent": ["#d3b0ff", "#8a4be0"]
+    },
+    {
+      "id": "tulparpdf",
+      "name": "TulparPDF",
+      "tagline": "PDF Düzenleme",
+      "description": "PDF görüntüleme, düzenleme, birleştirme ve imzalama.",
+      "icon": "assets/apps/tulparpdf.webp",
+      "accent": ["#ff8f98", "#d9283c"],
+      "comingSoon": true
+    }
+  ]
+}
