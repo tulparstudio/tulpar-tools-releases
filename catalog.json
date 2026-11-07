@@ -10,7 +10,8 @@
       "asset": "tulparphoto-*-windows-x64-portable.zip",
       "exe": "tulparphoto.exe",
       "icon": "assets/apps/tulparphoto.webp",
-      "accent": ["#8fd3ff", "#2f8fe0"]
+      "accent": ["#8fd3ff", "#2f8fe0"],
+      "fileTypes": ["psd", "psb", "pcraft", "png", "jpg", "jpeg", "webp", "gif", "bmp", "tif", "tiff", "heic", "heif", "tga", "ico", "svg", "kra", "xcf", "ora", "pdn", "exr", "hdr", "dng", "cr2", "cr3", "nef", "arw", "orf", "rw2", "raf"]
     },
     {
       "id": "tulparvideo",
@@ -21,7 +22,8 @@
       "asset": "tulparvideo-*-windows-x64-portable.zip",
       "exe": "tulparvideo.exe",
       "icon": "assets/apps/tulparvideo.webp",
-      "accent": ["#d3b0ff", "#8a4be0"]
+      "accent": ["#d3b0ff", "#8a4be0"],
+      "fileTypes": ["fcproj", "mp4", "m4v", "mov", "mkv", "webm", "avi", "mts", "m2ts", "mpg", "mpeg", "3gp"]
     },
     {
       "id": "tulparpdf",
@@ -32,7 +34,8 @@
       "asset": "tulparpdf-*-windows-x64-portable.zip",
       "exe": "tulparpdf.exe",
       "icon": "assets/apps/tulparpdf.webp",
-      "accent": ["#ff8f98", "#d9283c"]
+      "accent": ["#ff8f98", "#d9283c"],
+      "fileTypes": ["pdf"]
     }
   ]
 }
